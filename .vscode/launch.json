@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://pcn2016.ncdev.ru",
+            "port": 11049,
+            "serverInstance": "DynamicsNAV110",
+            "authentication": "Windows"
+        }
+    ]
+}
